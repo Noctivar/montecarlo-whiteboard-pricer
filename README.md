@@ -20,11 +20,11 @@
 
 ---
 
-## ⚡ Quick Start
+# ⚡ Quick Start
 
 | Method | Instructions |
 |--------|--------------|
-| **🌐 Colab (Fastest)** | [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1gDPQcb8aNJiNRojrRzR0R1Yz6iklP0kM?usp=sharing))]([https://colab.research.google.com/github/yourusername/montecarlo-whiteboard-pricer/blob/main/whiteboard_pricer.ipynb](https://colab.research.google.com/drive/1gDPQcb8aNJiNRojrRzR0R1Yz6iklP0kM?usp=sharing)) |
+| **🌐 Colab (Fastest)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gDPQcb8aNJiNRojrRzR0R1Yz6iklP0kM?usp=sharing) |
 | **💻 Local Jupyter** | `git clone https://github.com/yourusername/montecarlo-whiteboard-pricer.git`<br>`cd montecarlo-whiteboard-pricer`<br>`pip install -r requirements.txt`<br>`jupyter notebook whiteboard_pricer.ipynb` |
 
 ---
