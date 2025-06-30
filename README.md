@@ -1,6 +1,6 @@
 # MonteCarlo Whiteboard Pricer 🖋📈
 
-| **Description** | **Sketch any payoff. Price it with Monte Carlo—instantly.** |
+| **Description** | **Sketch any payoff. Price it with Monte Carlo.** |
 |-----------------|--------------------------------------------------------------|
 | **Purpose** | Turn a Jupyter/Colab notebook into a mini-trading desk |
 | **Workflow** | Draw a curve, hit "Run Monte Carlo," and get full payoff analytics in seconds |
